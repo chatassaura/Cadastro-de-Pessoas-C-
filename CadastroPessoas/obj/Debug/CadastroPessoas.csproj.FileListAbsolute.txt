@@ -1,0 +1,11 @@
+E:\OneDrive\1- Pessoal\0. Estudos\1. Faculdade\5ºSemestre\1. Programações Visuais\CadastroPessoas(Vetor-Matriz)\CadastroPessoas\CadastroPessoas\bin\Debug\CadastroPessoas.exe.config
+E:\OneDrive\1- Pessoal\0. Estudos\1. Faculdade\5ºSemestre\1. Programações Visuais\CadastroPessoas(Vetor-Matriz)\CadastroPessoas\CadastroPessoas\bin\Debug\CadastroPessoas.exe
+E:\OneDrive\1- Pessoal\0. Estudos\1. Faculdade\5ºSemestre\1. Programações Visuais\CadastroPessoas(Vetor-Matriz)\CadastroPessoas\CadastroPessoas\bin\Debug\CadastroPessoas.pdb
+E:\OneDrive\1- Pessoal\0. Estudos\1. Faculdade\5ºSemestre\1. Programações Visuais\CadastroPessoas(Vetor-Matriz)\CadastroPessoas\CadastroPessoas\obj\Debug\CadastroPessoas.csproj.AssemblyReference.cache
+E:\OneDrive\1- Pessoal\0. Estudos\1. Faculdade\5ºSemestre\1. Programações Visuais\CadastroPessoas(Vetor-Matriz)\CadastroPessoas\CadastroPessoas\obj\Debug\CadastroPessoas.csproj.SuggestedBindingRedirects.cache
+E:\OneDrive\1- Pessoal\0. Estudos\1. Faculdade\5ºSemestre\1. Programações Visuais\CadastroPessoas(Vetor-Matriz)\CadastroPessoas\CadastroPessoas\obj\Debug\CadastroPessoas.frm_cadastro_aluno.resources
+E:\OneDrive\1- Pessoal\0. Estudos\1. Faculdade\5ºSemestre\1. Programações Visuais\CadastroPessoas(Vetor-Matriz)\CadastroPessoas\CadastroPessoas\obj\Debug\CadastroPessoas.Properties.Resources.resources
+E:\OneDrive\1- Pessoal\0. Estudos\1. Faculdade\5ºSemestre\1. Programações Visuais\CadastroPessoas(Vetor-Matriz)\CadastroPessoas\CadastroPessoas\obj\Debug\CadastroPessoas.csproj.GenerateResource.cache
+E:\OneDrive\1- Pessoal\0. Estudos\1. Faculdade\5ºSemestre\1. Programações Visuais\CadastroPessoas(Vetor-Matriz)\CadastroPessoas\CadastroPessoas\obj\Debug\CadastroPessoas.csproj.CoreCompileInputs.cache
+E:\OneDrive\1- Pessoal\0. Estudos\1. Faculdade\5ºSemestre\1. Programações Visuais\CadastroPessoas(Vetor-Matriz)\CadastroPessoas\CadastroPessoas\obj\Debug\CadastroPessoas.exe
+E:\OneDrive\1- Pessoal\0. Estudos\1. Faculdade\5ºSemestre\1. Programações Visuais\CadastroPessoas(Vetor-Matriz)\CadastroPessoas\CadastroPessoas\obj\Debug\CadastroPessoas.pdb
